@@ -1,0 +1,9 @@
+streamlit
+pytrends
+requests
+beautifulsoup4
+lxml
+pandas
+sqlalchemy
+python-dotenv
+httpx 
